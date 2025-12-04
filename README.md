@@ -226,18 +226,18 @@ If you like this project, please ⭐ **star the repository** — it motivates fu
 ## 📜 License
 
 ```
-MIT License © 2025 YOUR_NAME
+MIT License © 2025 Ritesh
 ```
 
 ---
 
-## 👨‍💻 Developer
+## 👨‍💻
 
-**Your Name**  
-🔗 [GitHub](https://github.com/YOUR_USERNAME)  
-🔗 [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)  
-📧 your.email@example.com
+**Ritesh**  
+🔗 [GitHub](https://github.com/ritesh17rb)  
+🔗 [LinkedIn](https://www.linkedin.com/in/ritesh17rb/)  
+📧 ritesh17lifeamazing@gmail.com
 
 ---
 
-<p align="center">Made with ❤️ using Flutter</p>
+<p align="center">Made with ❤️</p>
