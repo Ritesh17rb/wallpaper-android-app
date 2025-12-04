@@ -1,0 +1,91 @@
+# ======================
+# OS / Editor Files
+# ======================
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ / Android Studio
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code (OPTIONAL)
+# Uncomment IF you do NOT want to share VS Code user configs
+# .vscode/
+
+# ======================
+# Flutter / Dart
+# ======================
+.dart_tool/
+.pub-cache/
+.pub/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+**/doc/api/
+coverage/
+build/
+
+# Symbolication
+app.*.symbols
+
+# Obfuscation
+app.*.map.json
+
+# ======================
+# Android
+# ======================
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Generated local.properties (local paths)
+android/local.properties
+
+# ======================
+# iOS / macOS
+# ======================
+**/Flutter/Flutter.framework
+**/Flutter/Flutter.podspec
+**/Flutter/App.framework
+**/ServiceDefinitions.json
+**/Runner/GeneratedPluginRegistrant.*
+
+# CocoaPods
+ios/Pods/
+macos/Pods/
+pubspec.lock
+
+# ======================
+# Web
+# ======================
+web/.dart_tool/
+
+# ======================
+# Windows / Linux
+# ======================
+windows/flutter/
+linux/flutter/
+
+# ======================
+# APK / AAB
+# ======================
+*.apk
+*.aab
+
+# ======================
+# Generated files
+# ======================
+*.g.dart
