@@ -1,5 +1,11 @@
 # 📱 Wallpaper App
 
+### 🎬 App Preview
+
+<p align="center">
+  <img src="assets/App video.gif" width="300" alt="App Demo">
+</p>
+
 ![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-2.18+-0175C2?logo=dart)
 ![License](https://img.shields.io/badge/License-MIT-green)
