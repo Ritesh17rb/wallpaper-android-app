@@ -19,6 +19,11 @@ A beautifully designed Pinterest-style wallpaper application built with Flutter,
 🎥 **Watch Demo Video**  
 👉 [Watch on Google Drive](https://drive.google.com/file/d/1j3ZMi81fUMudTsOqyMtanuycXwQSVUgQ/view?usp=drivesdk)
 
+### 🎬 App Preview
+
+<p align="center">
+  <img src="assets/App video.gif" width="300" alt="App Demo">
+</p>
 ---
 
 ## 🌟 Features
